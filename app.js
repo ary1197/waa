@@ -23,5 +23,5 @@
                 result = "楽";
             }
 
-            document.getElementById('result-output').innerText = "今日の運勢は【" + result + "】です";
+            document.getElementById('result-output').innerText = "今日の一日は【" + result + "】です";
         }
