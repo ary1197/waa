@@ -10,7 +10,7 @@
             } else if (colour === "赤" && number === 2) {
                 result = "苦しい";
             } else if (colour === "ピンク" && number === 0) {
-                result = "少し大変";
+                result = "とても幸せ";
             } else if (colour === "ピンク" && number === 1) {
                 result = "楽";
             } else if (colour === "ピンク" && number === 2) {
