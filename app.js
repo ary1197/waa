@@ -3,11 +3,11 @@
             var number = parseInt(document.getElementById('number-input').value, 10);
             var result = "幸せ"; // デフォルトの値
 
-            if (colour === "赤" && number === 0) {
+            if (colour === "楽" && number === 0) {
                 result = "幸せ";
-            } else if (colour === "赤" && number === 1) {
+            } else if (colour === "楽" && number === 1) {
                 result = "少し大変";
-            } else if (colour === "赤" && number === 2) {
+            } else if (colour === "楽" && number === 2) {
                 result = "苦しい";
             } else if (colour === "ピンク" && number === 0) {
                 result = "とても幸せ";
